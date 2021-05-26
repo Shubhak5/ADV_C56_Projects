@@ -1,0 +1,26 @@
+body {
+    text-align: center;
+    background-color: yellowgreen;
+}
+
+h1,
+h4 {
+    color: darkorange;
+    font-variant: small-caps;
+    font-family: cursive;
+}
+
+.divFoods {
+    display: flex;
+    justify-content: center;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+    border: 10px;
+    border-style: groove;
+    border-color:darkgoldenrod;
+    border-radius:200px;
+    padding: 10px;
+}
